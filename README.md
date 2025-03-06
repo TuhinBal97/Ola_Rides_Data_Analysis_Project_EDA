@@ -1,1 +1,1 @@
-# Ola_Rides_Data_Analysis_Project_EDA
+This repository contains the data analysis project for Ola Rides, utilizing SQL, Power BI, and Excel. The project aimed to extract, analyze, and visualize ride data to derive meaningful insights and support data-driven decision-making.
